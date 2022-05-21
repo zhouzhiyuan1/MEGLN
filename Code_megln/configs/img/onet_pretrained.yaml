@@ -1,0 +1,5 @@
+inherit_from: configs/img/onet.yaml
+test:
+  model_file: ../../pretrained_model/model_best.pt
+generation:
+  generation_dir: pretrained
