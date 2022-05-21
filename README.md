@@ -2,6 +2,7 @@
 ![Example 1](Code_megln/img/airplane.gif)
 ![Example 2](Code_megln/img/sofa.gif)
 ![Example 3](Code_megln/img/table.gif)
+![Example 3](Code_megln/img/bench.gif)
 
 This repository contains the code to reproduce the results from the paper
 [Multi-scale Edge-guided Learning for 3D Reconstruction]().
