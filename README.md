@@ -31,8 +31,8 @@ If you experience any errors, you can simply comment out the `dmc_*` dependencie
 You should then also comment out the `dmc` imports in `im2mesh/config.py`.
 
 ## Demo
-![Example Input](img/example_input.png)
-![Example Output](img/example_output.gif)
+![Example Input](Code_megln/img/example_input.png)
+![Example Output](Code_megln/img/example_output.gif)
 
 You can now test our code on the provided input images in the `demo` folder.
 To this end, simply run
