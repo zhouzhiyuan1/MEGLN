@@ -39,6 +39,7 @@ To this end, simply run
 ```
 python generate.py configs/demo.yaml
 ```
+You should download the pre-training model [MEGLN.pt](https://drive.google.com/file/d/16qxtbM47_bFxoFU2Jq-bqZIKpNiKHOyw/view?usp=sharing) before running this script.
 This script should create a folder `demo/generation` where the output meshes are stored.
 The script will copy the inputs into the `demo/generation/inputs` folder and creates the meshes in the `demo/generation/meshes` folder.
 Moreover, the script creates a `demo/generation/vis` folder where both inputs and outputs are copied together.
